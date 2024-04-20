@@ -8,7 +8,7 @@ I'm a Backend Engineer, who is passionate about solving hard problems with Softw
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: Recently completed Backend Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) through [Devcareer Tech Program](https://devcareer.io/government/dctp).
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning TypeScript.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer.
 - 📫 You contact me by emailing codewithaplus@gmail.com.
