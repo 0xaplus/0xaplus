@@ -4,13 +4,3 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
  
-I'm a Backend Engineer, who is passionate about transforming great ideas into better softwares and I'm also a web3 enthusiast.
-
-**Here's a quick summary about me**:
-
-- 💡 Fun fact: Recently deployed my first smart contract. https://x.com/0xaplus/status/1849349960954724821
-- 🌱 I’m currently learning Solidity.
-- 😊 I’m looking for help with open source projects, hackathons, and web3 projects in general.
-- 💼 Job interests: Software Engineer, Backend Engineer.
-
----
